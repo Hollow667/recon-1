@@ -1,0 +1,15 @@
+admin
+app
+blog
+dev
+forums
+forums
+ftp
+invalid
+mail
+news
+qa
+shop
+sports
+staging
+test
